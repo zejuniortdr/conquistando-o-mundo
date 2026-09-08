@@ -1,0 +1,48 @@
+---
+import "@fontsource-variable/archivo/wdth.css";
+import "@fontsource-variable/newsreader/opsz.css";
+import "@fontsource-variable/newsreader/opsz-italic.css";
+import "../styles/global.css";
+import { SITE } from "../consts";
+import { url } from "../lib/cidades";
+
+interface Props { titulo?: string; descricao?: string; busca?: boolean }
+// a busca só aparece onde existe o handler que a implementa: a home
+const { titulo, descricao = SITE.descricao, busca = false } = Astro.props;
+const tituloFinal = titulo ? `${titulo} · ${SITE.nome}` : SITE.nome;
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{tituloFinal}</title>
+    <meta name="description" content={descricao} />
+    <meta property="og:title" content={tituloFinal} />
+    <meta property="og:description" content={descricao} />
+    <meta property="og:type" content="website" />
+    <meta name="theme-color" content="#0B1F27" />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+  </head>
+  <body>
+    <a class="pular" href="#conteudo">Pular para o conteúdo</a>
+    <header class="topo">
+      <div class="wrap topo-in">
+        <a class="marca" href={url()}>
+          <i class="peca"></i><span>Conquistando o Mundo</span>
+        </a>
+        {busca && (
+        <nav>
+          <label class="busca">
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+              <circle cx="7" cy="7" r="4.6"></circle><path d="M10.5 10.5 14 14"></path>
+            </svg>
+            <input id="q" type="search" placeholder="Buscar território" aria-label="Buscar território" autocomplete="off" />
+          </label>
+        </nav>
+        )}
+      </div>
+    </header>
+    <main id="conteudo"><slot /></main>
+  </body>
+</html>

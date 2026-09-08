@@ -1,0 +1,22 @@
+---
+import { MUNDO_SVG } from "../lib/mundo";
+import { viewBox, type Caixa } from "../lib/geo";
+
+interface Props {
+  caixa: Caixa;
+  /** classe do continente aceso; os demais ficam esmaecidos */
+  foco?: string;
+  /** "slice" recorta em vez de esticar — usado nas miniaturas */
+  ajuste?: "none" | "slice";
+  classe?: string;
+}
+const { caixa: c, foco, ajuste = "none", classe = "" } = Astro.props;
+
+const svg = MUNDO_SVG
+  .replace(/viewBox="[^"]*"/, `viewBox="${viewBox(c)}"`)
+  .replace(/preserveAspectRatio="[^"]*"/, `preserveAspectRatio="${ajuste === "slice" ? "xMidYMid slice" : "none"}"`)
+  .replace(' id="mundo"', "")
+  .replace('class="mundo"', `class="mundo${foco ? " foco" : ""}${classe ? " " + classe : ""}"`)
+  .replace(`class="terra t-${foco}"`, `class="terra t-${foco} ativa"`);
+---
+<Fragment set:html={svg} />

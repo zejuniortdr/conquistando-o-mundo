@@ -1,0 +1,32 @@
+---
+import { Image } from "astro:assets";
+import type { Cidade } from "../lib/cidades";
+import { dias, partes, quando, rota } from "../lib/cidades";
+import { CONTINENTES } from "../consts";
+
+interface Props { cidade: Cidade; indice?: number }
+const { cidade, indice = 0 } = Astro.props;
+const d = cidade.data;
+const classe = CONTINENTES[partes(cidade).continente].classe;
+
+// sem foto ainda: o cartão usa a cor da frente, variando por posição
+const fundos = [
+  `linear-gradient(155deg, var(--c-${classe}) 0%, #071820 78%)`,
+  `linear-gradient(30deg, #071820 4%, var(--c-${classe}) 62%, var(--planalto) 100%)`,
+  `linear-gradient(200deg, var(--planalto) 0%, var(--c-${classe}) 48%, #071820 100%)`,
+];
+---
+<a class="carta" href={rota(cidade)} data-tags={d.tags.join(" ")}>
+  <div class="foto" style={d.capa ? undefined : `background:${fundos[indice % 3]}`}>
+    {d.capa && <Image src={d.capa} alt={`${d.titulo}, ${d.pais}`} widths={[320, 640]} loading="lazy" />}
+  </div>
+  <div class="carta-txt">
+    <h4>{d.titulo}</h4>
+    <p>{d.resumo}</p>
+    <div class="tarja">
+      <span>{dias(cidade)} dias</span>
+      <span>{quando(cidade)}</span>
+      {d.custoDia && <span>{d.custoDia}/dia</span>}
+    </div>
+  </div>
+</a>

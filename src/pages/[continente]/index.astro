@@ -1,0 +1,124 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../layouts/Base.astro";
+import Mapa from "../../components/Mapa.astro";
+import Placar from "../../components/Placar.astro";
+import CartaCidade from "../../components/CartaCidade.astro";
+import { caixa, posicao, proporcao } from "../../lib/geo";
+import { CONTINENTES } from "../../consts";
+import { bandeira, dias, partes, porPais, rota, todas, url } from "../../lib/cidades";
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const cidades = await todas();
+  const chaves = [...new Set(cidades.map((c) => partes(c).continente))];
+  return chaves.map((chave) => ({
+    params: { continente: chave },
+    props: { chave, cidades: cidades.filter((c) => partes(c).continente === chave) },
+  }));
+};
+
+const { chave, cidades } = Astro.props;
+const meta = CONTINENTES[chave];
+const cx = caixa(meta.vb);
+const paises = porPais(cidades);
+
+const etiquetas = [...new Set(cidades.flatMap((c) => c.data.tags))].sort((a, b) =>
+  a.localeCompare(b, "pt-BR"),
+);
+---
+<Base titulo={meta.nome} descricao={meta.resumo}>
+  <div class="wrap">
+    <nav class="trilha" aria-label="Trilha de navegação">
+      <a href={url()}>Tabuleiro</a><i></i><span>{meta.nome}</span>
+    </nav>
+
+    <header class="cab-cont" style={`--cor:var(--c-${meta.classe})`}>
+      <div>
+        <h1>{meta.nome}</h1>
+        <p>{meta.resumo}</p>
+      </div>
+      <Placar itens={[
+        [cidades.length, "territórios"],
+        [paises.length, "países"],
+        [cidades.reduce((s, c) => s + dias(c), 0), "dias em campo"],
+      ]} />
+    </header>
+
+    <div class="tabuleiro grade-geo mapa-cont" style={`aspect-ratio:${proporcao(cx).toFixed(3)}`}>
+      <Mapa caixa={cx} foco={meta.classe} />
+      {cidades.map((c, i) => {
+        const pos = posicao(c.data.coordenadas[0], c.data.coordenadas[1], cx);
+        return (
+          <a class="peca-btn" href={rota(c)} data-tags={c.data.tags.join(" ")}
+             style={`left:${pos.left}%;top:${pos.top}%;animation-delay:${120 + i * 26}ms`}
+             aria-label={`${c.data.titulo}, ${c.data.pais}`}>
+            <b>{c.data.titulo}</b><i></i>
+          </a>
+        );
+      })}
+    </div>
+
+    {etiquetas.length > 1 && (
+      <div class="filtros" id="filtros">
+        <span class="rot">Filtrar</span>
+        {etiquetas.map((t) => (
+          <button class="chip" type="button" aria-pressed="false" data-tag={t}>{t}</button>
+        ))}
+      </div>
+    )}
+
+    <div id="lista">
+      {paises.map(({ pais, cidades: lista }) => (
+        <div class="bloco" data-pais={pais}>
+          <div class="pais-cab">
+            <span class="bandeira" aria-hidden="true">{bandeira(lista[0].data.paisCodigo)}</span>
+            <h3>{pais}</h3>
+            <span data-conta>{lista.length}</span>
+            <span class="fio"></span>
+          </div>
+          <div class="grade">
+            {lista.map((c, i) => <CartaCidade cidade={c} indice={i} />)}
+          </div>
+        </div>
+      ))}
+      <p class="vazio" id="sem-filtro" hidden>Nenhum território com essa etiqueta neste continente.</p>
+    </div>
+  </div>
+</Base>
+
+<script>
+  const filtros = document.getElementById("filtros");
+  const lista = document.getElementById("lista");
+  const sem = document.getElementById("sem-filtro");
+  if (filtros && lista && sem) {
+    const chips = [...filtros.querySelectorAll<HTMLButtonElement>(".chip")];
+    const cartas = [...lista.querySelectorAll<HTMLElement>(".carta")];
+    const pinos = [...document.querySelectorAll<HTMLElement>(".peca-btn")];
+    let ativa: string | null = null;
+
+    const casa = (el: HTMLElement) => !ativa || (el.dataset.tags ?? "").split(" ").includes(ativa);
+
+    chips.forEach((chip) => {
+      chip.addEventListener("click", () => {
+        ativa = ativa === chip.dataset.tag ? null : chip.dataset.tag!;
+        chips.forEach((c) => c.setAttribute("aria-pressed", String(c.dataset.tag === ativa)));
+
+        let total = 0;
+        cartas.forEach((c) => {
+          const ok = casa(c);
+          c.hidden = !ok;
+          if (ok) total++;
+        });
+        pinos.forEach((p) => (p.hidden = !casa(p)));
+
+        lista.querySelectorAll<HTMLElement>(".bloco").forEach((bloco) => {
+          const visiveis = [...bloco.querySelectorAll<HTMLElement>(".carta")].filter((c) => !c.hidden);
+          bloco.hidden = visiveis.length === 0;
+          const conta = bloco.querySelector("[data-conta]");
+          if (conta) conta.textContent = String(visiveis.length);
+        });
+        sem.hidden = total > 0;
+      });
+    });
+  }
+</script>

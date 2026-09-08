@@ -1,0 +1,17 @@
+{
+  "name": "conquistando-o-mundo",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "mapa": "node scripts/gera-mapa.mjs"
+  },
+  "dependencies": {
+    "astro": "^5.13.0",
+    "@fontsource-variable/archivo": "^5.2.5",
+    "@fontsource-variable/newsreader": "^5.2.5"
+  }
+}

@@ -1,0 +1,147 @@
+---
+import Base from "../layouts/Base.astro";
+import Mapa from "../components/Mapa.astro";
+import Placar from "../components/Placar.astro";
+import CartaCidade from "../components/CartaCidade.astro";
+import { caixa, MUNDO, posicao, proporcao } from "../lib/geo";
+import { CONTINENTES } from "../consts";
+import { dias, placar, porContinente, quando, rota, todas, url } from "../lib/cidades";
+
+const cidades = await todas();
+const frentes = porContinente(cidades);
+const p = placar(cidades);
+
+// marcador de frente no centro de massa das cidades daquele continente
+const marcadores = frentes.map((f) => {
+  const lat = f.cidades.reduce((s, c) => s + c.data.coordenadas[0], 0) / f.cidades.length;
+  const lon = f.cidades.reduce((s, c) => s + c.data.coordenadas[1], 0) / f.cidades.length;
+  return { ...f, ...posicao(lat, lon, MUNDO) };
+});
+
+// linha do tempo: um ano antes da primeira viagem, um depois da última
+const anos = cidades.map((c) => new Date(c.data.datas.inicio).getUTCFullYear());
+const t0 = Math.min(...anos);
+const t1 = Math.max(...anos) + 1;
+const larguraAno = (v: number) => ((v - t0) / (t1 - t0)) * 100;
+const escalaAnos = Array.from({ length: t1 - t0 + 1 }, (_, i) => t0 + i);
+
+const ultima = cidades[cidades.length - 1];
+---
+<Base busca>
+  <div class="wrap">
+    <section class="placar">
+      <h1>Conquistando o mundo</h1>
+      <Placar itens={[
+        [p.territorios, "territórios"],
+        [p.paises, "países"],
+        [p.frentes, "frentes"],
+        [p.dias, "dias em campo"],
+      ]} />
+    </section>
+
+    <div class="tabuleiro grade-geo" style="aspect-ratio:360/142">
+      <Mapa caixa={MUNDO} />
+      {marcadores.map((m, i) => (
+        <a class="frente" href={url(`${m.chave}/`)} style={`left:${m.left}%;top:${m.top}%;animation-delay:${300 + i * 110}ms`}
+           aria-label={`${m.nome}, ${m.cidades.length} territórios`}>
+          <span class="disco"><b>{m.cidades.length}</b></span>
+          <em>{m.nome}</em>
+        </a>
+      ))}
+    </div>
+
+    <div class="legenda-mapa">
+      {frentes.map((f) => (
+        <span><em style={`background:var(--c-${f.classe})`}></em>{f.nome} · {f.cidades.length}</span>
+      ))}
+      <span><em style="background:var(--marco);transform:rotate(45deg)"></em>clique na frente para abrir o continente</span>
+    </div>
+
+    <section class="tempo">
+      <div class="tempo-cab">
+        <h2 class="narrow">Ordem de conquista</h2>
+        <p>O mesmo tabuleiro, no eixo do tempo.</p>
+      </div>
+      <div class="trilho">
+        <div class="base"></div>
+        {escalaAnos.map((a) => (
+          <span class="ano" style={`left:${larguraAno(a)}%`}>{a}</span>
+        ))}
+        {cidades.map((c) => {
+          const d = new Date(c.data.datas.inicio + "T00:00:00Z");
+          const v = d.getUTCFullYear() + d.getUTCMonth() / 12;
+          const classe = CONTINENTES[c.id.split("/")[0] as keyof typeof CONTINENTES].classe;
+          return (
+            <a class="marca-tempo" href={rota(c)} style={`left:${larguraAno(v)}%`}
+               aria-label={`${c.data.titulo}, ${quando(c)}`}>
+              <b>{c.data.titulo}</b><i style={`background:var(--c-${classe})`}></i>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+
+    <div id="resultados" hidden>
+      <div class="pais-cab"><h3>Resultados</h3><span id="conta-res"></span><span class="fio"></span></div>
+      <div class="grade">
+        {cidades.map((c, i) => (
+          <CartaCidade cidade={c} indice={i} />
+        ))}
+      </div>
+      <p class="vazio" id="sem-res" hidden>Nenhum território bate com essa busca. Limpe o campo para ver as frentes.</p>
+    </div>
+
+    <div class="frentes" id="frentes">
+      {frentes.map((f) => (
+        <a class="frente-carta" href={url(`${f.chave}/`)}>
+          <div class="recorte"><Mapa caixa={caixa(f.vb)} foco={f.classe} ajuste="slice" /></div>
+          <div class="txt">
+            <h3>{f.nome}</h3>
+            <p>{f.resumo}</p>
+            <div class="placa">
+              <span>{f.cidades.length} territórios</span>
+              <span>{new Set(f.cidades.map((c) => c.data.pais)).size} países</span>
+              <span>{f.cidades.reduce((s, c) => s + dias(c), 0)} dias</span>
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+
+  <div class="wrap rodape">
+    <p>{p.territorios} territórios em {p.paises} países</p>
+    <p>Última conquista: {ultima.data.titulo}, {quando(ultima)}</p>
+  </div>
+</Base>
+
+<script>
+  // busca: filtra os cartões já renderizados, sem índice externo nem rede
+  const q = document.getElementById("q") as HTMLInputElement | null;
+  const res = document.getElementById("resultados");
+  const frentes = document.getElementById("frentes");
+  const conta = document.getElementById("conta-res");
+  const sem = document.getElementById("sem-res");
+  if (q && res && frentes && conta && sem) {
+    const cartas = [...res.querySelectorAll<HTMLElement>(".carta")];
+    const chaves = cartas.map((c) => (c.textContent + " " + (c.dataset.tags ?? "")).toLowerCase());
+    q.addEventListener("input", () => {
+      const termo = q.value.trim().toLowerCase();
+      if (!termo) {
+        res.hidden = true;
+        frentes.hidden = false;
+        return;
+      }
+      let n = 0;
+      cartas.forEach((c, i) => {
+        const bate = chaves[i].includes(termo);
+        c.hidden = !bate;
+        if (bate) n++;
+      });
+      conta.textContent = String(n);
+      sem.hidden = n > 0;
+      res.hidden = false;
+      frentes.hidden = true;
+    });
+  }
+</script>

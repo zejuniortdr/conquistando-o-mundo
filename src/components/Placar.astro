@@ -1,0 +1,9 @@
+---
+interface Props { itens: [number, string][] }
+const { itens } = Astro.props;
+---
+<div class="contagem">
+  {itens.map(([valor, rotulo]) => (
+    <span class="num"><b>{valor}</b><span>{rotulo}</span></span>
+  ))}
+</div>

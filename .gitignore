@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.astro/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+
+# cache do Natural Earth; `npm run mapa` rebaixa quando falta
+scripts/ne_110m_admin_0_countries.geojson
+ruvector.db
+.swarm/
+.claude-flow/
