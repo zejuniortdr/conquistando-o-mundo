@@ -4,7 +4,7 @@ import Base from "../../layouts/Base.astro";
 import Mapa from "../../components/Mapa.astro";
 import Placar from "../../components/Placar.astro";
 import CartaCidade from "../../components/CartaCidade.astro";
-import { caixa, posicao, proporcao } from "../../lib/geo";
+import { caixa, enquadrar, posicao } from "../../lib/geo";
 import { CONTINENTES } from "../../consts";
 import { bandeira, dias, partes, porPais, rota, todas, url } from "../../lib/cidades";
 
@@ -19,7 +19,8 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 const { chave, cidades } = Astro.props;
 const meta = CONTINENTES[chave];
-const cx = caixa(meta.vb);
+// mesma proporção e largura do mapa da home
+const cx = enquadrar(caixa(meta.vb), 360 / 142);
 const paises = porPais(cidades);
 
 const etiquetas = [...new Set(cidades.flatMap((c) => c.data.tags))].sort((a, b) =>
@@ -44,7 +45,7 @@ const etiquetas = [...new Set(cidades.flatMap((c) => c.data.tags))].sort((a, b) 
       ]} />
     </header>
 
-    <div class="tabuleiro grade-geo mapa-cont" style={`aspect-ratio:${proporcao(cx).toFixed(3)}`}>
+    <div class="tabuleiro grade-geo" style="aspect-ratio:360/142">
       <Mapa caixa={cx} foco={meta.classe} />
       {cidades.map((c, i) => {
         const pos = posicao(c.data.coordenadas[0], c.data.coordenadas[1], cx);

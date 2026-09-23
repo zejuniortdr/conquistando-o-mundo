@@ -42,7 +42,25 @@ export function proporcao(c: Caixa) {
   return (c.w * Math.cos((c.latMed * Math.PI) / 180)) / c.h;
 }
 
-export const viewBox = (c: Caixa) => `${c.x} ${c.y} ${c.w} ${c.h}`;
+/** Expande a caixa ao redor do centro até a proporção de tela pedida, sem sair do mundo quando cabe. */
+export function enquadrar(c: Caixa, alvo: number): Caixa {
+  const cos = Math.cos((c.latMed * Math.PI) / 180);
+  let { x, y, w, h } = c;
+  if (proporcao(c) < alvo) {
+    const nw = (alvo * h) / cos;
+    x -= (nw - w) / 2;
+    w = nw;
+  } else {
+    const nh = (w * cos) / alvo;
+    y -= (nh - h) / 2;
+    h = nh;
+  }
+  if (w <= MUNDO.w) x = Math.min(Math.max(x, 0), MUNDO.w - w);
+  if (h <= MUNDO.h) y = Math.min(Math.max(y, 0), MUNDO.h - h);
+  return { x, y, w, h, latMed: c.latMed };
+}
+
+export const viewBox =(c: Caixa) => `${c.x} ${c.y} ${c.w} ${c.h}`;
 
 export function coordenada(v: number, pos: string, neg: string) {
   const s = v < 0 ? neg : pos;
