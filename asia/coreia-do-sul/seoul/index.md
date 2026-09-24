@@ -14,11 +14,11 @@ tomada: Padrões C e F (dois pinos redondos), 220V — aparelhos brasileiros de 
 melhorEpoca: Primavera (abril, cerejeiras) e outono (outubro, folhas vermelhas); o inverno é muito frio e seco, com céu limpo e temperaturas abaixo de zero à noite.
 nota: 5
 tags: [urbano, compras, historico, gastronomia, reveillon]
-resumo: Uma semana entre os dois blocos de Tóquio, com palácios, skincare, a virada do ano no sino de Bosingak e a caça a um presente de Stray Kids que só existe na Coreia — tudo com a comida filtrada por uma alergia séria a crustáceos.
+resumo: Uma semana com palácios, skincare, a virada do ano no sino de Bosingak e a caça a itens de Stray Kids que só existem na Coreia.
 logistica:
-  comoChegar: Voo de Haneda para Gimpo (GMP), o aeroporto dentro da cidade, com pouso por volta das 14h50 em 29/12; a volta sai de Gimpo por volta das 16h20 em 05/01. Do aeroporto a Myeongdong são cerca de 45 minutos pelo trem AREX até a Seoul Station e mais duas estações de metrô.
+  comoChegar: Voos internacionais chegam por Incheon (ICN), a cerca de 1h do centro pelo trem AREX; os voos curtos da Ásia costumam usar Gimpo (GMP), o aeroporto dentro da cidade. De Gimpo a Myeongdong são cerca de 45 minutos pelo trem AREX até a Seoul Station e mais duas estações de metrô.
   transporte: Cartão T-money ou WOWPASS (cartão pré-pago para turista, que também funciona como cartão de débito e faz câmbio em máquinas) cobre metrô, ônibus e loja de conveniência. O Google Maps funciona mal na Coreia para rotas a pé e de carro; Naver Map e KakaoMap resolvem.
-  hospedagem: Base em Myeongdong, na faixa de ₩150-250 mil por noite para o casal — L7 Myeongdong, Nine Tree Premier ou Solaria Nishitetsu. Fica a 15 minutos a pé do sino de Bosingak na noite do Réveillon, perto dos palácios e das lojas de skincare; a diária sobe na virada do ano, então reservar cedo.
+  hospedagem: Base em Myeongdong, na faixa de ₩150-250 mil por noite em quarto duplo — L7 Myeongdong, Nine Tree Premier ou Solaria Nishitetsu. Fica a 15 minutos a pé do sino de Bosingak na noite do Réveillon, perto dos palácios e das lojas de skincare; a diária sobe na virada do ano, então reservar cedo.
   documentos: Passaporte e K-ETA aprovada. O tax refund na Coreia é imediato — com o passaporte em mãos, lojas como Olive Young descontam o imposto direto no caixa em compras de ₩15 mil a ₩1 milhão, até ₩5 milhões na viagem.
   tomadaChip: eSIM coreano ou chip comprado no aeroporto; adaptador de pinos redondos.
 pontos:
@@ -51,7 +51,7 @@ pontos:
   - nome: Starfield Library (COEX)
     resumo: Biblioteca aberta com estantes de 13 m de altura no meio do shopping COEX, a foto mais famosa de Seul. Entrada livre.
   - nome: Ktown4u COEX
-    resumo: A maior loja de K-pop de Seul, no mesmo shopping da Starfield Library. Faz lucky draw (sorteio de photocards inéditos) e dá brindes que só as lojas físicas coreanas oferecem — o lugar para o presente de Stray Kids da sobrinha, incluindo as pelúcias SKZOO (os personagens animais de cada membro).
+    resumo: A maior loja de K-pop de Seul, no mesmo shopping da Starfield Library. Faz lucky draw (sorteio de photocards inéditos) e dá brindes que só as lojas físicas coreanas oferecem — o lugar para itens de Stray Kids, incluindo as pelúcias SKZOO (os personagens animais de cada membro).
   - nome: Bongeunsa
     resumo: Templo budista fundado em 794, com um Buda de pedra de 23 m, colado ao COEX entre os arranha-céus de Gangnam.
   - nome: Lotte World Tower e Seoul Sky
@@ -65,60 +65,56 @@ pontos:
   - nome: Mercado Gwangjang
     resumo: Mercado coberto de 1905, o mais famoso de Seul para comer, com fileiras de bancas de bindaetteok (panqueca frita de feijão mungo) e mayak gimbap (rolinho de arroz com alga).
 curadoria:
-  valeSe: O plano é emendar Tóquio com uma semana de skincare, palácios e comida coreana, e ainda ver a virada do ano no centro histórico de Seul.
-  podePular: A barraca de rua de Myeongdong com lagosta gratinada e espetinho de camarão — é o que mais aparece em vídeo, mas a chapa compartilhada torna o risco alto demais para quem tem alergia a crustáceos.
+  valeSe: Uma semana junta skincare, palácios, K-pop e comida coreana, e ainda dá para ver a virada do ano no centro histórico de Seul.
+  podePular: O tour da JSA, a área da DMZ onde soldados das duas Coreias se encaram — é suspenso com frequência e não vale a incerteza.
 capa: ./capa.jpg
 ---
 
 Seul cabe numa semana se os dias forem divididos por lado do rio Han. Ao norte fica o centro histórico — palácios, Bukchon, Insadong, Myeongdong e Jongno, onde está o sino do Réveillon. Ao sul ficam Gangnam, COEX e Jamsil, com a Lotte World Tower e a sede da JYP. O metrô é limpo, barato e tem sinalização em inglês, e quase todo deslocamento fica abaixo de 40 minutos.
 
-A semana cai entre os dois blocos de Tóquio: pouso em Gimpo em 29/12 e volta em 05/01. O calendário pede atenção. O Gyeongbokgung fecha às terças, e Deoksugung e Changdeokgung às segundas. Os tours da DMZ (fronteira com a Coreia do Norte) não rodam às segundas nem no feriado de 1º de janeiro. O Ano-Novo solar é feriado de um dia só — o grande feriado coreano é o Seollal, o Ano-Novo lunar, em fevereiro — então a cidade funciona quase normal em 01/01, com alguns mercados e lojas pequenas fechados.
+A semana vai de 29/12 a 05/01, com chegada e saída por Gimpo. O calendário pede atenção. O Gyeongbokgung fecha às terças, e Deoksugung e Changdeokgung às segundas. Os tours da DMZ (fronteira com a Coreia do Norte) não rodam às segundas nem no feriado de 1º de janeiro. O Ano-Novo solar é feriado de um dia só — o grande feriado coreano é o Seollal, o Ano-Novo lunar, em fevereiro — então a cidade funciona quase normal em 01/01, com alguns mercados e lojas pequenas fechados.
 
 O frio é sério: de −5 a −10°C à noite no fim de dezembro, com vento. Casaco longo, gorro, luvas e segunda pele fazem diferença, principalmente para as duas horas em pé esperando o sino de Bosingak. As lojas de conveniência vendem hot packs (sachês que esquentam) por pouco mais de ₩1.000.
 
-Para compras, a Coreia é mais simples que o Japão: o imposto sai direto no caixa com o passaporte, sem passar pela alfândega na saída para compras menores. A base em Myeongdong deixa a Olive Young principal e a Daiso de 12 andares a poucos minutos do hotel, para voltar mais de uma vez.
+Para compras, a Coreia é simples: o imposto sai direto no caixa com o passaporte, sem passar pela alfândega na saída para compras menores. A base em Myeongdong deixa a Olive Young principal e a Daiso de 12 andares a poucos minutos do hotel, para voltar mais de uma vez.
 
-## O presente de Stray Kids
+## Stray Kids em Seul
 
-A sobrinha já tem camisetas e photocards, então a ideia é algo que não se compra fora da Coreia. Não existe loja oficial permanente do grupo: o pop-up SKZOO de Seul aconteceu em abril e maio de 2026, e a sede da JYP não vende nada. O caminho é a Ktown4u do COEX, que faz sorteios de photocards inéditos e dá brindes de loja física — itens que só saem ali. As pelúcias SKZOO (Wolf Chan, Leebit, Dwaekki, Jiniret, HAN QUOKKA, BbokAri, PuppyM e FoxI.Ny, um animal para cada membro) são o presente mais seguro de agradar. Se sobrar orçamento, o lightstick oficial Ver.2 (o bastão de luz usado nos shows) e um álbum com o photocard exclusivo da loja completam. E a foto na fachada da JYP Center vale como lembrança que ninguém mais tem. Em novembro vale conferir as redes da JYP: se sair um pop-up novo em dezembro, ele passa na frente de tudo.
+Para fã de Stray Kids, a graça é achar o que não se compra fora da Coreia. Não existe loja oficial permanente do grupo: o pop-up SKZOO de Seul aconteceu em abril e maio de 2026, e a sede da JYP não vende nada. O caminho é a Ktown4u do COEX, que faz sorteios de photocards inéditos e dá brindes de loja física — itens que só saem ali. As pelúcias SKZOO (Wolf Chan, Leebit, Dwaekki, Jiniret, HAN QUOKKA, BbokAri, PuppyM e FoxI.Ny, um animal para cada membro) são o presente mais fácil de agradar. Se sobrar orçamento, o lightstick oficial Ver.2 (o bastão de luz usado nos shows) e um álbum com o photocard exclusivo da loja completam. E a foto na fachada da JYP Center vale como lembrança. Em novembro vale conferir as redes da JYP: se sair um pop-up novo em dezembro, ele passa na frente de tudo.
 
 ## O que comer
 
-A comida coreana é a parte mais delicada da viagem. A maior parte do kimchi e muitos banchan (os acompanhamentos que chegam à mesa de graça, em potinhos) levam saeujeot, camarão miúdo fermentado no sal. Carne, frango, arroz e macarrão costumam ser seguros; o risco está no que vem junto. A regra é mostrar o cartão abaixo em todo restaurante e, na dúvida, pedir para tirar o kimchi da mesa. Em produto embalado, 새우 é camarão e 게 é caranguejo.
+A comida coreana gira em torno da mesa compartilhada: carne grelhada na mesa, sopas e ensopados, e os banchan (acompanhamentos que chegam de graça, em potinhos, e são repostos sem custo), com o kimchi sempre presente.
 
-> 저는 새우, 게 등 갑각류에 심한 알레르기가 있습니다. 새우젓이 들어간 김치나, 같은 기름·철판·육수로 조리한 음식도 먹을 수 없습니다. 이 음식 괜찮을까요?
->
-> "Tenho alergia grave a crustáceos (camarão, caranguejo). Não posso comer kimchi com saeujeot nem nada preparado no mesmo óleo, chapa ou caldo. Este prato é seguro?"
-
-**Confirmados**
+**Imperdíveis**
 
 - **Hanwoo no Réveillon** — hanwoo é o boi nativo coreano, marmorizado como o wagyu, grelhado na mesa pelo próprio garçom. Jantar reservado para 18h perto de Jongno, antes de ir para o sino.
 - **Chimaek** — junção de chicken e maekju (cerveja): frango frito coreano, de casca fina e muito crocante, puro ou coberto com yangnyeom (molho doce e picante). As redes Kyochon, BHC e BBQ só fritam frango, o que deixa o risco baixo.
-- **Myeongdong Kyoja** — casa famosa de kalguksu, sopa de macarrão cortado a faca em caldo de frango, servida com mandu (bolinho de massa recheado de carne). O kimchi da casa, de muito alho, precisa da pergunta sobre saeujeot.
+- **Myeongdong Kyoja** — casa famosa de kalguksu, sopa de macarrão cortado a faca em caldo de frango, servida com mandu (bolinho de massa recheado de carne). O kimchi da casa é famoso pelo muito alho.
 - **Naengmyeon no Wooraeok** — naengmyeon é macarrão fino de trigo-sarraceno em caldo gelado de carne, no estilo de Pyongyang; o coreano come até no inverno. O Wooraeok, perto de Euljiro, é o endereço clássico.
-- **Mercado Gwangjang** — bindaetteok (panqueca grossa de feijão mungo moído, frita na hora), mayak gimbap (rolinho fino de arroz e alga, o "gimbap viciante") e yukhoe (carne crua temperada com pera e gergelim). As mesmas bancas fritam haemul pajeon, a panqueca de frutos do mar — escolher banca só de bindaetteok e pedir um pedaço recém-frito.
-- **Doces de rua seguros** — hotteok (panqueca de fermentação recheada de açúcar mascavo e canela, que escorre quente), gyeran-ppang (pãozinho fofo com um ovo inteiro assado dentro) e bungeoppang (waffle em forma de peixe recheado de feijão doce; não tem peixe). Cada um tem chapa própria.
+- **Mercado Gwangjang** — bindaetteok (panqueca grossa de feijão mungo moído, frita na hora), mayak gimbap (rolinho fino de arroz e alga, o "gimbap viciante") e yukhoe (carne crua temperada com pera e gergelim). As mesmas bancas fritam haemul pajeon, a panqueca de frutos do mar.
+- **Doces de rua** — hotteok (panqueca de fermentação recheada de açúcar mascavo e canela, que escorre quente), gyeran-ppang (pãozinho fofo com um ovo inteiro assado dentro) e bungeoppang (waffle em forma de peixe recheado de feijão doce; não tem peixe). Cada um tem chapa própria.
 - **Café Onion Anguk** — padaria em hanok (ver pontos acima).
-- **Loja de conveniência (GS25, CU)** — lámen instantâneo preparado na máquina da própria loja, kimbap triangular (bolinho de arroz com alga) e banana milk (leite achocolatado de banana, clássico coreano). Muitos lámens são de frutos do mar, como o jjamppong: ler o rótulo.
+- **Loja de conveniência (GS25, CU)** — lámen instantâneo preparado na máquina da própria loja, kimbap triangular (bolinho de arroz com alga) e banana milk (leite achocolatado de banana, clássico coreano).
 
-**Se der vontade (com cuidado)**
+**Se der vontade**
 
-- **Samgyeopsal** — barriga de porco em fatias grossas assada na grelha da mesa e enrolada em folha de alface com alho e ssamjang (pasta de soja com pimenta). A carne é segura; o risco é o kimchi e os banchan.
-- **Tosokchon** — samgyetang, um frango pequeno inteiro recheado com arroz, ginseng e tâmara, servido fervendo na panela de barro; casa famosa perto do Gyeongbokgung. Caldo de frango, risco baixo.
+- **Samgyeopsal** — barriga de porco em fatias grossas assada na grelha da mesa e enrolada em folha de alface com alho e ssamjang (pasta de soja com pimenta).
+- **Tosokchon** — samgyetang, um frango pequeno inteiro recheado com arroz, ginseng e tâmara, servido fervendo na panela de barro; casa famosa perto do Gyeongbokgung.
 - **Bibimbap** — arroz coberto de legumes temperados, carne e ovo, misturado com gochujang (pasta de pimenta vermelha). Na versão dolsot, a tigela de pedra quente tosta o arroz do fundo.
-- **Budae jjigae** — o "ensopado do exército", criado depois da guerra com salsicha e Spam das bases americanas, lámen, queijo e kimchi. O kimchi vai no caldo: só com confirmação de que não leva saeujeot.
-- **Tteokbokki** — cilindros de massa de arroz em molho vermelho doce e picante. O caldo costuma ser de anchova (peixe, liberado), mas o eomuk (bolinho de peixe) às vezes leva camarão.
+- **Budae jjigae** — o "ensopado do exército", criado depois da guerra com salsicha e Spam das bases americanas, lámen, queijo e kimchi.
+- **Tteokbokki** — cilindros de massa de arroz em molho vermelho doce e picante. O caldo costuma ser de anchova, e vem com eomuk (bolinho de peixe) e ovo cozido.
 
 ## Como dividir os dias
 
 ### Dia 1 · 29/12 (ter) · Chegada em Myeongdong
-Pouso em Gimpo por volta das 14h50 e, com o trem AREX e duas estações de metrô, o hotel fica para umas 16h30. A noite é para o bairro: Olive Young Myeongdong (a loja principal da rede de skincare), Daiso de 12 andares, doces de rua seguros (hotteok e gyeran-ppang) e jantar de kalguksu no Myeongdong Kyoja. Se der tempo, as lojas de álbuns de K-pop do bairro abrem até tarde.
+Pouso em Gimpo por volta das 14h50 e, com o trem AREX e duas estações de metrô, o hotel fica para umas 16h30. A noite é para o bairro: Olive Young Myeongdong (a loja principal da rede de skincare), Daiso de 12 andares, doces de rua (hotteok e gyeran-ppang) e jantar de kalguksu no Myeongdong Kyoja. Se der tempo, as lojas de álbuns de K-pop do bairro abrem até tarde.
 
 ### Dia 2 · 30/12 (qua) · Palácios e o centro histórico
 O Gyeongbokgung (maior palácio de Seul) abre às 9h, com a troca da guarda às 10h; na saída, a Praça Gwanghwamun com as estátuas do Rei Sejong e do Almirante Yi. Almoço de samgyetang no Tosokchon, ali perto, se entrar. À tarde, Bukchon (vila de casas tradicionais, só até as 17h), café no Onion Anguk (padaria dentro de um hanok), os becos de Ikseon-dong e as lojas de Insadong — com o templo Jogyesa (lanternas coloridas) a cinco minutos, se sobrar tempo. O Changdeokgung e seu Jardim Secreto (palácio da UNESCO, jardim só com tour marcado) entram aqui se quiserem trocar Insadong por mais um palácio. À noite, as luzes do Cheonggyecheon (riacho no meio do centro).
 
 ### Dia 3 · 31/12 (qui) · Seongsu, COEX e o Réveillon
-De manhã, a Olive Young N Seongsu (loja-conceito com diagnóstico de pele) e, se der tempo, uma volta por Seongsu (antigo bairro de fábricas cheio de lojas-conceito e cafés em galpão). À tarde, o COEX: Starfield Library (a biblioteca de estantes gigantes), Ktown4u para o presente de Stray Kids e o templo Bongeunsa, do outro lado da rua. Volta ao hotel para descansar e se agasalhar, jantar de hanwoo às 18h em Jongno, e às 22h no sino de Bosingak — a estação Jonggak fica fechada das 23h à 1h, e o metrô estendido roda até cerca das 2h.
+De manhã, a Olive Young N Seongsu (loja-conceito com diagnóstico de pele) e, se der tempo, uma volta por Seongsu (antigo bairro de fábricas cheio de lojas-conceito e cafés em galpão). À tarde, o COEX: Starfield Library (a biblioteca de estantes gigantes), Ktown4u para os itens de Stray Kids e o templo Bongeunsa, do outro lado da rua. Volta ao hotel para descansar e se agasalhar, jantar de hanwoo às 18h em Jongno, e às 22h no sino de Bosingak — a estação Jonggak fica fechada das 23h à 1h, e o metrô estendido roda até cerca das 2h.
 
 ### Dia 4 · 01/01 (sex) · Feriado de Ano-Novo
 Manhã livre depois da virada. Almoço de naengmyeon (macarrão frio) no Wooraeok, se abrir no feriado, e à tarde o Deoksugung (palácio de estilo misto) e a rua do muro de pedra. Depois, Yongsan I'Park Mall (andar de figures e Nintendo), com o Museu Nacional da Coreia (gratuito, coroas de ouro e um pagode inteiro dentro do prédio) ao lado, se abrir, e a N Seoul Tower (torre no monte Namsan, cenário de K-drama) ao pôr do sol, se ainda houver energia. Jantar de chimaek.
@@ -139,4 +135,4 @@ Café da manhã no Mercado Gwangjang (bindaetteok e mayak gimbap), uma passada p
 
 O aluguel de hanbok (traje tradicional que dá entrada grátis nos palácios) e a aula de dança K-pop ficaram de fora por escolha. A clínica de pele também: além de não ser prioridade, tratamentos estéticos perderam a devolução de imposto para turistas em 2026. Na área de compras, Dosan Park (lojas-instalação como Gentle Monster e Tamburins) e as lojas Kakao Friends saíram; o bingsu (gelo raspado com cobertura) saiu do cardápio.
 
-Algumas coisas nem entraram na lista. Esqui e snowboard, a pedido. O Hard Rock Cafe, tradição do casal em cada cidade, não existe mais em Seul: o da Lotte World Mall fechou e virou um restaurante de K-pop. A tradição fica com o Hard Rock de Roppongi, em Tóquio. O tour da JSA, a área da DMZ onde soldados das duas Coreias se encaram, é suspenso com frequência e não vale a incerteza. E pratos como haemul pajeon (panqueca de frutos do mar), jjamppong (sopa apimentada de frutos do mar) e ganjang gejang (caranguejo cru marinado no shoyu, prato famoso de Seul) ficam fora pela alergia.
+Algumas coisas nem entraram na lista. Esqui e snowboard ficaram de fora. O tour da JSA, a área da DMZ onde soldados das duas Coreias se encaram, é suspenso com frequência e não vale a incerteza.
