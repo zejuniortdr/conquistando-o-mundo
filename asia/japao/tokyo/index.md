@@ -150,6 +150,10 @@ pontos:
     resumo: A maior rede de drugstores do Japão (a "Matsukiyo", de placa amarela), com lojas em quase toda estação e várias abertas até tarde na saída leste de Shinjuku. Concentra os básicos de skincare japonês — protetor solar Biore e Anessa, máscaras faciais Lululun, Hada Labo, Melano CC — além de remédios de farmácia, colírios e doces, com preço de rede e prateleiras de mais vendidos para turistas.
   - nome: Ainz & Tulpe
     resumo: Rede de drugstore mais voltada a beleza, com seleção caprichada de skincare e maquiagem japonesa e coreana, em Shinjuku, Ginza e Shibuya.
+  - nome: Onitsuka Tiger Omotesando
+    resumo: Loja principal da marca japonesa de tênis que deu origem à Asics, famosa pelo modelo Mexico 66 de listras laterais. Tem a linha NIPPON MADE, feita à mão no Japão, e modelos que não chegam ao Brasil; o preço no Japão costuma ser bem menor que fora. Também há loja em Ginza.
+  - nome: Baskin-Robbins (31 Ice Cream)
+    resumo: No Japão a rede se chama 31 Ice Cream e tem sabores que só existem lá — matcha, sakura, edições de anime e sabores sazonais de inverno. Há lojas em quase todo bairro; boa pausa entre as compras.
   - nome: Takeshita-dori
     resumo: Rua estreita de Harajuku, centro da moda jovem e kawaii (fofa), com crepes, lojas de acessórios e muita gente.
   - nome: Daiso Harajuku
@@ -201,6 +205,7 @@ Comer bem em Tóquio é fácil e barato fora dos restaurantes famosos: redes de 
 - **Onyasai** — rede de shabu-shabu, em que carne fatiada bem fina é mergulhada por segundos num caldo fervente na mesa. Cada mesa tem panela própria, e dá para escolher o caldo.
 - **Yakinikutei Rokkasen** — o jantar de Natal (ver pontos acima).
 - **Doces de rua em Asakusa** — melon pan (pão doce com casquinha crocante de biscoito, sem melão), ningyō-yaki (bolinho recheado com pasta de feijão doce) e dango (bolinhas de massa de arroz no espeto, com calda).
+- **Sorvete na 31 Ice Cream** — a Baskin-Robbins japonesa, com sabores exclusivos como matcha e os de edição limitada da estação; o combo de duas bolas em copinho é o pedido clássico.
 - **Panqueca japonesa fofinha** — panquecas altas e macias, feitas na hora com claras batidas; demoram 20 a 30 minutos. Harajuku e Shibuya têm várias casas.
 - **Café da manhã de konbini** — tamago sando (sanduíche de pão de forma com salada de ovo), onigiri (bolinho de arroz com recheio embrulhado em alga) e karaage (frango frito marinado).
 - **Ichiban Kuji de Dragon Ball** — não é comida: é a loteria de prêmios da Bandai vendida em konbini (Lawson, FamilyMart). Cada bilhete garante um item, e os prêmios A e B são figures exclusivas. Vale procurar os cartazes.
@@ -228,7 +233,7 @@ O Sensoji (templo mais antigo de Tóquio) abre a manhã antes das excursões, se
 Os Jardins Leste do Palácio Imperial (ruínas do castelo de Edo, gratuitos) abrem às 9h e só dá para ir hoje neste bloco. Dali, a pé até a Character Street da Tokyo Station: Dragon Ball Store, Pokémon Store e Jump Shop (loja da revista que publicou Dragon Ball). Almoço no Pokémon Café e visita à Pokémon Center DX, no mesmo shopping de Nihonbashi. A tarde vai para Ginza — ReFa (rolinhos faciais e secadores), MUJI (a maior loja da marca) e Itoya (papelaria de doze andares). No escuro, as luzes da Marunouchi Naka-dori (avenida iluminada entre a estação e o Palácio), e às 20h o jantar de Natal de wagyu no Rokkasen, de volta a Shinjuku.
 
 ### Dia 4 · 25/12 (sex) · Harajuku e Shibuya
-O Santuário Meiji (floresta e portões de madeira gigantes) abre o dia, e a saída dá direto em Harajuku: Takeshita-dori (rua da moda jovem), @cosme Tokyo (loja de beleza organizada por ranking) e Daiso (100 ienes), com pausa para panqueca fofinha. Em Shibuya, o Parco concentra a Nintendo Tokyo, a Pokémon Center Shibuya e o Mandarake (colecionáveis usados); a Loft (variedades) fica perto, e o Komeda's Coffee (pão doce com sorvete) serve de pausa. O Shibuya Sky (mirante a céu aberto) às 16h pega o pôr do sol; depois, descer para o Scramble Crossing (o cruzamento famoso) e fechar na Mega Don Quijote (loja de descontos aberta até de madrugada).
+O Santuário Meiji (floresta e portões de madeira gigantes) abre o dia, e a saída dá direto em Harajuku: Takeshita-dori (rua da moda jovem), @cosme Tokyo (loja de beleza organizada por ranking) e Daiso (100 ienes), com pausa para panqueca fofinha e um sorvete na 31 Ice Cream (a Baskin-Robbins japonesa). Em Shibuya, o Parco concentra a Nintendo Tokyo, a Pokémon Center Shibuya e o Mandarake (colecionáveis usados); a Loft (variedades) fica perto, e o Komeda's Coffee (pão doce com sorvete) serve de pausa. O Shibuya Sky (mirante a céu aberto) às 16h pega o pôr do sol; depois, descer para o Scramble Crossing (o cruzamento famoso) e fechar na Mega Don Quijote (loja de descontos aberta até de madrugada).
 
 ### Dia 5 · 26/12 (sáb) · Oeste de Tóquio: templos e brechós
 De manhã, o Jindaiji (templo de 733 no subúrbio) e um soba (macarrão de trigo-sarraceno) numa das casas em volta. Depois, o Gōtoku-ji (templo dos milhares de gatinhos da sorte) e, a duas estações, Shimokitazawa (brechós e cafés). O entardecer vai para a Starbucks Reserve Roastery (torrefação-conceito de quatro andares) em Nakameguro.
@@ -267,7 +272,7 @@ Domingo à tarde a avenida principal de Akihabara fecha para carros. Tamashii Na
 Feriado de Seijin no Hi (Dia da Maioridade): jovens de 20 anos saem de furisode (kimono de mangas longas) e terno, bom para fotos. Uma hora de trem até Kamakura (antiga capital samurai): o Grande Buda de bronze, o templo Hasedera (com vista para o mar) e a rua Komachi-dori de comida de rua.
 
 ### Dia 16 · 12/01 (ter) · Omotesando e Ginza sem pressa
-Dia de compras sem pressa. Omotesando (avenida das grifes) e Omotesando Hills pela manhã; almoço no Gyukatsu Motomura (bife empanado terminado na pedra quente). À tarde, Ginza Six (shopping de alto padrão) e a Uniqlo Ginza (loja principal, doze andares), e a última rodada nas drugstores Matsumoto Kiyoshi e Ainz & Tulpe (protetor solar e máscaras faciais) antes do voo. Se ainda houver energia, teamLab Planets (museu de arte digital em que se anda descalço na água) à noite em Toyosu.
+Dia de compras sem pressa. Omotesando (avenida das grifes), Omotesando Hills e a Onitsuka Tiger (tênis japonês, com a linha feita à mão NIPPON MADE) pela manhã; almoço no Gyukatsu Motomura (bife empanado terminado na pedra quente). À tarde, Ginza Six (shopping de alto padrão) e a Uniqlo Ginza (loja principal, doze andares), e a última rodada nas drugstores Matsumoto Kiyoshi e Ainz & Tulpe (protetor solar e máscaras faciais) antes do voo. Se ainda houver energia, teamLab Planets (museu de arte digital em que se anda descalço na água) à noite em Toyosu.
 
 ### Dia 17 · 13/01 (qua) · Partida
 Manhã no depachika do Isetan (andar de doces e presentes da loja de departamentos) para as lembranças, Narita Express por volta das 13h30 e voo às 17h30, com tempo para o reembolso do tax-free no aeroporto.
