@@ -88,7 +88,7 @@ A comida coreana gira em torno da mesa compartilhada: carne grelhada na mesa, so
 
 **Imperdíveis**
 
-- **Hanwoo no Réveillon** — hanwoo é o boi nativo coreano, marmorizado como o wagyu, grelhado na mesa pelo próprio garçom. Jantar reservado para 18h perto de Jongno, antes de ir para o sino.
+- **Hanwoo no Réveillon** — hanwoo é o boi nativo coreano, marmorizado como o wagyu, grelhado na mesa pelo próprio garçom. Jantar cedo, com reserva, perto de Jongno, antes de ir para o sino.
 - **Chimaek** — junção de chicken e maekju (cerveja): frango frito coreano, de casca fina e muito crocante, puro ou coberto com yangnyeom (molho doce e picante). As redes Kyochon, BHC e BBQ só fritam frango, o que deixa o risco baixo.
 - **Myeongdong Kyoja** — casa famosa de kalguksu, sopa de macarrão cortado a faca em caldo de frango, servida com mandu (bolinho de massa recheado de carne). O kimchi da casa é famoso pelo muito alho.
 - **Naengmyeon no Wooraeok** — naengmyeon é macarrão fino de trigo-sarraceno em caldo gelado de carne, no estilo de Pyongyang; o coreano come até no inverno. O Wooraeok, perto de Euljiro, é o endereço clássico.
@@ -108,13 +108,13 @@ A comida coreana gira em torno da mesa compartilhada: carne grelhada na mesa, so
 ## Como dividir os dias
 
 ### Dia 1 · 29/12 (ter) · Chegada em Myeongdong
-Pouso em Gimpo por volta das 14h50 e, com o trem AREX e duas estações de metrô, o hotel fica para umas 16h30. A noite é para o bairro: Olive Young Myeongdong (a loja principal da rede de skincare), Daiso de 12 andares, doces de rua (hotteok e gyeran-ppang) e jantar de kalguksu no Myeongdong Kyoja. Se der tempo, as lojas de álbuns de K-pop do bairro abrem até tarde.
+De Gimpo, o trem AREX e duas estações de metrô levam a Myeongdong em cerca de 45 minutos. A noite é para o bairro: Olive Young Myeongdong (a loja principal da rede de skincare), Daiso de 12 andares, doces de rua (hotteok e gyeran-ppang) e jantar de kalguksu no Myeongdong Kyoja. Se der tempo, as lojas de álbuns de K-pop do bairro abrem até tarde.
 
 ### Dia 2 · 30/12 (qua) · Palácios e o centro histórico
 O Gyeongbokgung (maior palácio de Seul) abre às 9h, com a troca da guarda às 10h; na saída, a Praça Gwanghwamun com as estátuas do Rei Sejong e do Almirante Yi. Almoço de samgyetang no Tosokchon, ali perto, se entrar. À tarde, Bukchon (vila de casas tradicionais, só até as 17h), café no Onion Anguk (padaria dentro de um hanok), os becos de Ikseon-dong e as lojas de Insadong — com o templo Jogyesa (lanternas coloridas) a cinco minutos, se sobrar tempo. O Changdeokgung e seu Jardim Secreto (palácio da UNESCO, jardim só com tour marcado) entram aqui se quiserem trocar Insadong por mais um palácio. À noite, as luzes do Cheonggyecheon (riacho no meio do centro).
 
 ### Dia 3 · 31/12 (qui) · Seongsu, COEX e o Réveillon
-De manhã, a Olive Young N Seongsu (loja-conceito com diagnóstico de pele) e, se der tempo, uma volta por Seongsu (antigo bairro de fábricas cheio de lojas-conceito e cafés em galpão). À tarde, o COEX: Starfield Library (a biblioteca de estantes gigantes), Ktown4u para os itens de Stray Kids e o templo Bongeunsa, do outro lado da rua. Volta ao hotel para descansar e se agasalhar, jantar de hanwoo às 18h em Jongno, e às 22h no sino de Bosingak — a estação Jonggak fica fechada das 23h à 1h, e o metrô estendido roda até cerca das 2h.
+De manhã, a Olive Young N Seongsu (loja-conceito com diagnóstico de pele) e, se der tempo, uma volta por Seongsu (antigo bairro de fábricas cheio de lojas-conceito e cafés em galpão). À tarde, o COEX: Starfield Library (a biblioteca de estantes gigantes), Ktown4u para os itens de Stray Kids e o templo Bongeunsa, do outro lado da rua. Volta ao hotel para descansar e se agasalhar, jantar de hanwoo cedo em Jongno, e às 22h no sino de Bosingak — a estação Jonggak fica fechada das 23h à 1h, e o metrô estendido roda até cerca das 2h.
 
 ### Dia 4 · 01/01 (sex) · Feriado de Ano-Novo
 Manhã livre depois da virada. Almoço de naengmyeon (macarrão frio) no Wooraeok, se abrir no feriado, e à tarde o Deoksugung (palácio de estilo misto) e a rua do muro de pedra. Depois, Yongsan I'Park Mall (andar de figures e Nintendo), com o Museu Nacional da Coreia (gratuito, coroas de ouro e um pagode inteiro dentro do prédio) ao lado, se abrir, e a N Seoul Tower (torre no monte Namsan, cenário de K-drama) ao pôr do sol, se ainda houver energia. Jantar de chimaek.
@@ -129,7 +129,7 @@ Lotte World Tower (o prédio mais alto da Coreia) com o mirante Seoul Sky e o sh
 Se entrar um bate-volta, Nami Island (ilha de alamedas de árvores cenário da novela Winter Sonata, com a vila Petite France e o festival de luzes do Garden of Morning Calm no mesmo tour de ônibus) ou a fortaleza Hwaseong em Suwon (muralha do século XVIII, patrimônio da UNESCO, a 1h de metrô). Sem bate-volta, o dia é de repescagem — o que ficou pendente em Myeongdong, Seongsu ou Hongdae — e de mala feita.
 
 ### Dia 8 · 05/01 (ter) · Gwangjang, DDP e partida
-Café da manhã no Mercado Gwangjang (bindaetteok e mayak gimbap), uma passada pelo DDP (o prédio prateado de Zaha Hadid) e pelos shoppings de Dongdaemun, e saída do hotel às 13h30 para Gimpo, com voo por volta das 16h20.
+Café da manhã no Mercado Gwangjang (bindaetteok e mayak gimbap), uma passada pelo DDP (o prédio prateado de Zaha Hadid) e pelos shoppings de Dongdaemun, e ida para Gimpo com folga — cerca de 45 minutos de trajeto, chegando duas a três horas antes do voo internacional.
 
 ## O que fica de fora
 

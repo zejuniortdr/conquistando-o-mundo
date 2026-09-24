@@ -224,13 +224,13 @@ Comer bem em Tóquio é fácil e barato fora dos restaurantes famosos: redes de 
 ## Como dividir os dias
 
 ### Dia 1 · 22/12 (ter) · Chegada em Shinjuku
-O voo chega em Narita às 15h40; com imigração e o Narita Express, o hotel em Shinjuku fica para umas 18h30. A noite rende para o entorno: a Seria do Marui Annex (loja de 100 ienes), a primeira passada na Matsumoto Kiyoshi da saída leste (drugstore de skincare aberta até tarde), o 7-Eleven da esquina e o primeiro ramen no Ichiran (cabines individuais, caldo de porco).
+Entre imigração e o Narita Express (cerca de 80-90 minutos até Shinjuku), a chegada em Narita consome umas três horas até o hotel. Com pouso à tarde, a noite rende para o entorno: a Seria do Marui Annex (loja de 100 ienes), a primeira passada na Matsumoto Kiyoshi da saída leste (drugstore de skincare aberta até tarde), o 7-Eleven da esquina e o primeiro ramen no Ichiran (cabines individuais, caldo de porco).
 
 ### Dia 2 · 23/12 (qua) · Asakusa e Akihabara
 O Sensoji (templo mais antigo de Tóquio) abre a manhã antes das excursões, seguido dos doces da rua Nakamise e de uma aula de shodō (caligrafia com pincel). Se sobrar tempo, o aluguel de kimono ou a aula de iaidō (arte da espada samurai) entram aqui mesmo em Asakusa. À tarde, o Ameyoko (mercado de rua de Ueno) fica no caminho — barracas de frutas, peixe seco e petiscos de rua. O fim do dia vai para Akihabara: Kanda Myojin (santuário padroeiro dos otakus), Tokyo Hobby Center (figures a preço bom) e os arcades GiGO e Taito Station (máquinas de garra e jogos de ritmo).
 
 ### Dia 3 · 24/12 (qui) · Palácio, Tokyo Station, Ginza e Natal
-Os Jardins Leste do Palácio Imperial (ruínas do castelo de Edo, gratuitos) abrem às 9h e só dá para ir hoje neste bloco. Dali, a pé até a Character Street da Tokyo Station: Dragon Ball Store, Pokémon Store e Jump Shop (loja da revista que publicou Dragon Ball). Almoço no Pokémon Café e visita à Pokémon Center DX, no mesmo shopping de Nihonbashi. A tarde vai para Ginza — ReFa (rolinhos faciais e secadores), MUJI (a maior loja da marca) e Itoya (papelaria de doze andares). No escuro, as luzes da Marunouchi Naka-dori (avenida iluminada entre a estação e o Palácio), e às 20h o jantar de Natal de wagyu no Rokkasen, de volta a Shinjuku.
+Os Jardins Leste do Palácio Imperial (ruínas do castelo de Edo, gratuitos) abrem às 9h e só dá para ir hoje neste bloco. Dali, a pé até a Character Street da Tokyo Station: Dragon Ball Store, Pokémon Store e Jump Shop (loja da revista que publicou Dragon Ball). Almoço no Pokémon Café e visita à Pokémon Center DX, no mesmo shopping de Nihonbashi. A tarde vai para Ginza — ReFa (rolinhos faciais e secadores), MUJI (a maior loja da marca) e Itoya (papelaria de doze andares). No escuro, as luzes da Marunouchi Naka-dori (avenida iluminada entre a estação e o Palácio), e o jantar de Natal de wagyu no Rokkasen, de volta a Shinjuku.
 
 ### Dia 4 · 25/12 (sex) · Harajuku e Shibuya
 O Santuário Meiji (floresta e portões de madeira gigantes) abre o dia, e a saída dá direto em Harajuku: Takeshita-dori (rua da moda jovem), @cosme Tokyo (loja de beleza organizada por ranking) e Daiso (100 ienes), com pausa para panqueca fofinha e um sorvete na 31 Ice Cream (a Baskin-Robbins japonesa). Em Shibuya, o Parco concentra a Nintendo Tokyo, a Pokémon Center Shibuya e o Mandarake (colecionáveis usados); a Loft (variedades) fica perto, e o Komeda's Coffee (pão doce com sorvete) serve de pausa. O Shibuya Sky (mirante a céu aberto) às 16h pega o pôr do sol; depois, descer para o Scramble Crossing (o cruzamento famoso) e fechar na Mega Don Quijote (loja de descontos aberta até de madrugada).
@@ -245,13 +245,13 @@ O Sunshine City de Ikebukuro abre às 10h com a Pokémon Center Mega Tokyo (a ma
 O Sengaku-ji (túmulo dos 47 rōnin, a história de samurai mais famosa do Japão) abre a manhã. De lá, Zojoji (templo com a Torre atrás) e a subida na Torre de Tóquio. À tarde, a escadaria de torii do Hie Shrine (santuário entre prédios de escritório) e o Tsukiji Hongwanji (templo de arquitetura indiana). Jantar no Hard Rock Cafe Roppongi (o mais antigo do Japão), a 15 minutos a pé da Torre, e mala feita — as compras do bloco precisam estar à mão para a alfândega amanhã.
 
 ### Dia 8 · 29/12 (ter) · Partida para Seul
-Sair do hotel por volta das 9h para Haneda (voo às 12h25), com tempo extra para o reembolso do tax-free.
+Para Haneda, contar cerca de uma hora de trajeto desde Shinjuku e chegar umas três horas antes de voo internacional, com tempo extra para o reembolso do tax-free.
 
 ### Intervalo · 30/12 a 04/01
 Semana em Seul. Tóquio está no recesso de Ano-Novo nesse período.
 
 ### Dia 9 · 05/01 (ter) · Volta a Tóquio
-O voo pousa em Haneda às 18h35; o hotel fica para umas 20h. Se der tempo, tsukemen no Fuunji (macarrão frio para molhar no caldo); senão, konbini.
+De Haneda a Shinjuku são 45-60 minutos depois da imigração. Com chegada à noite, se der tempo, tsukemen no Fuunji (macarrão frio para molhar no caldo); senão, konbini.
 
 ### Dia 10 · 06/01 (qua) · Tokyo DisneySea
 Dia inteiro no DisneySea (parque Disney temático de mares, exclusivo do Japão). A primeira semana útil depois do Ano-Novo está entre as mais vazias do ano.
@@ -275,7 +275,7 @@ Feriado de Seijin no Hi (Dia da Maioridade): jovens de 20 anos saem de furisode 
 Dia de compras sem pressa. Omotesando (avenida das grifes), Omotesando Hills e a Onitsuka Tiger (tênis japonês, com a linha feita à mão NIPPON MADE) pela manhã; almoço no Gyukatsu Motomura (bife empanado terminado na pedra quente). À tarde, Ginza Six (shopping de alto padrão) e a Uniqlo Ginza (loja principal, doze andares), e a última rodada nas drugstores Matsumoto Kiyoshi e Ainz & Tulpe (protetor solar e máscaras faciais) antes do voo. Se ainda houver energia, teamLab Planets (museu de arte digital em que se anda descalço na água) à noite em Toyosu.
 
 ### Dia 17 · 13/01 (qua) · Partida
-Manhã no depachika do Isetan (andar de doces e presentes da loja de departamentos) para as lembranças, Narita Express por volta das 13h30 e voo às 17h30, com tempo para o reembolso do tax-free no aeroporto.
+Manhã no depachika do Isetan (andar de doces e presentes da loja de departamentos) para as lembranças, e o Narita Express com folga — são 80-90 minutos até o aeroporto, e vale chegar três horas antes do voo para o reembolso do tax-free.
 
 ## O que fica de fora
 
