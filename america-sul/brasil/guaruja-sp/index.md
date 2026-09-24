@@ -29,6 +29,7 @@ pontos:
 curadoria:
   valeSe: A praia buscada for de fácil acesso saindo de São Paulo, sem precisar de deslocamento maior para o litoral norte
   podePular: Em alta temporada, a lotação das praias centrais (Enseada e Pitangueiras) reduz bastante o conforto; as opções menores como Tombô e Astúrio compensam parte disso
+capa: ./capa.jpg
 ---
 
 Guarujá funciona como praia de proximidade para quem sai de São Paulo, a cerca de 100km pela Rodovia Anchieta ou Imigrantes, ou pela travessia de balsa a partir de Santos. A cidade reúne praias de perfil bem diferente dentro do mesmo município — da Enseada e Pitangueiras, mais urbanas e com infraestrutura de quiosque, até o Tombô e o Astúrio, menores e mais tranquilos.

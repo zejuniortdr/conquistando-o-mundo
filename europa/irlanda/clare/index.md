@@ -27,6 +27,7 @@ pontos:
 curadoria:
   valeSe: O interesse for paisagem costeira em escala que não existe em cidade nenhuma da Irlanda
   podePular: Quem tem carro próprio ganha tempo livre na região indo por conta própria em vez de excursão fechada, mas perde o guia contando a história do trajeto
+capa: ./capa.jpg
 ---
 
 As Cliffs of Moher ficam a cerca de 3 horas de estrada de Dublin, o que torna o bate-volta de excursão a forma mais comum de conhecê-las sem alugar carro. A van sai cedo e passa o dia inteiro na estrada e no local, com pouco tempo livre fora da trilha das falésias em si.

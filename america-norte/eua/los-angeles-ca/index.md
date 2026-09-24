@@ -31,6 +31,7 @@ pontos:
 curadoria:
   valeSe: A viagem coincidir com algum evento de entretenimento da cidade, somado ao roteiro clássico de Hollywood e praia
   podePular: Sem carro alugado, o deslocamento entre os bairros da cidade consome tempo desproporcional ao roteiro
+capa: ./capa.jpg
 ---
 
 Los Angeles é uma cidade que se percorre de carro — a distância entre Hollywood, Santa Monica e o centro é grande demais para depender de transporte público, o que torna o aluguel de carro praticamente parte obrigatória do roteiro. A Calçada da Fama, no Hollywood Boulevard, e o letreiro no Monte Lee seguem sendo o ponto de partida mais óbvio para quem visita a cidade pela primeira vez.

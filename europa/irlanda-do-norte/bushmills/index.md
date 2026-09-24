@@ -27,6 +27,7 @@ pontos:
 curadoria:
   valeSe: O interesse for geologia incomum e litoral dramático, sem precisar de carro próprio
   podePular: Não há o que pular — é o ponto único da excursão e o motivo dela existir
+capa: ./capa.jpg
 ---
 
 O Giant's Causeway fica na costa norte da Irlanda do Norte, cerca de 3 horas de estrada a partir de Dublin, cruzando a fronteira sem controle formal graças à área de viagem comum entre os dois países. A excursão de van resolve essa distância sem exigir aluguel de carro nem troca de moeda planejada com antecedência — a Irlanda do Norte usa libra esterlina, diferente do euro da República da Irlanda.

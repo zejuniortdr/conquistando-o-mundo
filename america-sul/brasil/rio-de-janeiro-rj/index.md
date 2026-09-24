@@ -29,6 +29,7 @@ pontos:
 curadoria:
   valeSe: O interesse for natureza urbana (Jardim Botânico) e o ritmo mais tranquilo do bairro da Urca
   podePular: A sensação de vigilância constante pesou na experiência geral da cidade; atenção redobrada com pertences e deslocamento em áreas menos movimentadas é recomendada
+capa: ./capa.jpg
 ---
 
 A passagem pelo Rio de Janeiro concentrou dois programas de perfil bem diferente: o Jardim Botânico, com sua avenida de palmeiras imperiais plantada ainda no início do século XIX, e o entardecer nas muretas do Bar da Urca, ponto de encontro informal à beira-mar com vista para a Baía de Guanabara, sem entrar no Pão de Açúcar propriamente dito.

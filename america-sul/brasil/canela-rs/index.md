@@ -30,6 +30,7 @@ pontos:
 curadoria:
   valeSe: O interesse é natureza e trilha — cachoeira, araucárias centenárias, mirantes — sem o comércio voltado a compras que domina a vizinha Gramado.
   podePular: "O Alpen Park, se o orçamento for curto: o ingresso pesa mais que o das outras atrações e o trenó e a tirolesa não são exclusivos da região."
+capa: ./capa.jpg
 ---
 
 Canela fica a 7 km de Gramado pela Avenida das Hortênsias, mas funciona como uma cidade grande, não como vitrine turística: menos lojas de chocolate e decoração, mais parque e trilha. É onde ficam a cachoeira, a araucária centenária e o mirante que dão à serra gaúcha a parte de natureza que as fotos de Gramado não mostram.

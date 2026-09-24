@@ -35,6 +35,7 @@ pontos:
 curadoria:
   valeSe: O interesse for arte clássica de peso mundial combinada com parque urbano e mercado gastronômico no mesmo raio de caminhada
   podePular: O Museu do Prado é grande demais para ver por completo numa visita; focar nas obras mais conhecidas evita fadiga de museu
+capa: ./capa.jpg
 ---
 
 Madrid organiza seus principais pontos turísticos num raio caminhável a partir da Puerta del Sol, que marca o quilômetro zero das estradas espanholas e funciona como referência central da cidade. A Praça Mayor, porticada e cercada de cafés, fica a poucos minutos a pé dali, assim como o Mercado de San Miguel, parada gastronômica de bancas de tapas e vinho que rende tanto almoço rápido quanto jantar informal.

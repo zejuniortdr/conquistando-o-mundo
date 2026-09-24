@@ -27,6 +27,7 @@ pontos:
 curadoria:
   valeSe: A expectativa for de vila turística de compras e gastronomia, não de experiência de montanha propriamente dita
   podePular: A alta temporada de inverno concentra preço mais alto e mais fila sem entregar clima proporcionalmente mais frio que outras épocas; vale considerar meses de baixa temporada
+capa: ./capa.jpg
 ---
 
 Campos do Jordão chegou com fama de "montanha suíça" do Brasil, e a Vila Capivari — rua de compras e restaurantes em arquitetura de inspiração alpina — é o cartão-postal que sustenta essa comparação. Na prática, a experiência ficou mais próxima de um centro comercial turístico de montanha do que de uma vivência de natureza ou clima extremo.

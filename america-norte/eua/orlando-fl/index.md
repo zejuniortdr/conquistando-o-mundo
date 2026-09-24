@@ -31,6 +31,7 @@ pontos:
 curadoria:
   valeSe: O interesse for parque temático em escala que não existe em nenhuma outra cidade do mundo, com opção de complementar com compras
   podePular: Férias escolares americanas (verão e fim de ano) lotam os parques e elevam o preço da hospedagem; datas fora desses períodos rendem fila menor e diária mais barata
+capa: ./capa.jpg
 ---
 
 Orlando concentra o maior complexo de parques temáticos do mundo, e o roteiro aqui cobriu dois dos principais polos: o Magic Kingdom, parque original da Walt Disney World com o Castelo da Cinderela como ponto de encontro mais fotografado, e o par Universal Studios/Islands of Adventure, ligados por um trem interno que permite alternar entre os dois no mesmo ingresso combinado.

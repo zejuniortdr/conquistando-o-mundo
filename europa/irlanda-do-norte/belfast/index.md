@@ -27,6 +27,7 @@ pontos:
 curadoria:
   valeSe: A excursão para o Giant's Causeway já incluir a parada, sem custo ou esforço extra
   podePular: Quem quer conhecer Belfast de fato — Titanic Belfast, os murais de Falls e Shankill Road, o City Hall — precisa de uma visita dedicada à cidade, não desta parada de poucas horas
+capa: ./capa.jpg
 ---
 
 Belfast entrou no roteiro só como parada de volta da excursão ao Giant's Causeway, sem tempo reservado para os pontos turísticos da cidade. A parada foi uma feira local perto do centro, com barracas de comida típica e produtos regionais, o suficiente para esticar as pernas e comer algo antes do resto da estrada até Dublin.

@@ -31,6 +31,7 @@ pontos:
 curadoria:
   valeSe: O interesse for combinar praia urbana, arquitetura art déco e cultura latina numa cidade americana
   podePular: A temporada de furacões (junho a novembro) traz risco de chuva forte e instabilidade climática que pode afetar o roteiro de praia
+capa: ./capa.jpg
 ---
 
 Miami organiza o roteiro em torno de três núcleos bem diferentes entre si: South Beach, Little Havana e o centro à beira da baía. Ocean Drive, com sua fileira de prédios art déco em tons pastel dos anos 1930 e 40, é o cartão-postal mais reconhecível da cidade e rende caminhada tanto de dia quanto à noite, quando a iluminação de neon acende as fachadas.

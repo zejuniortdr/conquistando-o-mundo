@@ -31,6 +31,7 @@ pontos:
 curadoria:
   valeSe: O interesse for cidade medieval em escala pequena, vista tanto de cima (Belfort) quanto da água (canais)
   podePular: A fila para a Torre Belfort pode ser longa em horário de pico; quem tem pouco tempo de bate-volta pode priorizar o passeio de barco e a caminhada pelo centro
+capa: ./capa.jpg
 ---
 
 Bruges fica a cerca de 1 hora de trem direto de Bruxelas, o que faz do bate-volta de um dia inteiro suficiente para cobrir o centro histórico sem pressa. A cidade é pequena o bastante para ir a pé de qualquer ponto ao outro, e o centro medieval preservado — quase sem construção posterior ao período de auge comercial da cidade, no fim da Idade Média — é o que rendeu o título de patrimônio da UNESCO.

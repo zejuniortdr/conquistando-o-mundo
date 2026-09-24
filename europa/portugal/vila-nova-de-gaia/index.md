@@ -27,6 +27,7 @@ pontos:
 curadoria:
   valeSe: A visita ao Porto já incluir tempo de sobra para atravessar a ponte e provar vinho do Porto direto na origem
   podePular: Quem não bebe ou já conhece o processo de produção de vinho fortificado pode restringir a visita à vista da margem, sem entrar em nenhuma cave
+capa: ./capa.jpg
 ---
 
 Vila Nova de Gaia fica a uma travessia de ponte do centro histórico do Porto — o tabuleiro superior da Ponte Dom Luís I liga as duas margens a pé, com vista aberta para a Ribeira durante toda a caminhada. É do lado de Gaia que ficam instaladas as caves de vinho do Porto, tradicionalmente construídas ali por causa do acesso fácil ao rio para o transporte das pipas vindas do Douro.

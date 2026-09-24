@@ -29,6 +29,7 @@ pontos:
 curadoria:
   valeSe: A viagem incluir crianças ou o interesse for parque temático de grande porte combinado com praia na mesma estada
   podePular: Evitar as janelas de feriado escolar (julho e dezembro/janeiro) reduz bastante a fila do parque para quem tem flexibilidade de data
+capa: ./capa.jpg
 ---
 
 Penha rendeu duas viagens seguidas de um ano para o outro — julho de 2024 e agosto de 2025 — sempre com o Beto Carrero World como motivo principal e a praia como programa complementar. O Aeroporto Internacional de Navegantes, no município vizinho, é a porta de entrada mais prática, a cerca de 20km do centro.

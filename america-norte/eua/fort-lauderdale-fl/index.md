@@ -27,6 +27,7 @@ pontos:
 curadoria:
   valeSe: A passagem pela região já incluir tempo reservado para compras de outlet
   podePular: Quem não tem interesse em compras pode pular Fort Lauderdale e seguir direto para Miami ou Orlando
+capa: ./capa.jpg
 ---
 
 Fort Lauderdale entrou no roteiro como parada de passagem, sem tempo reservado para os pontos turísticos da cidade em si — nem a praia, nem os canais que lhe renderam o apelido de "Veneza americana" entraram no programa. O motivo da parada foi o Sawgrass Mills, um dos maiores outlets dos Estados Unidos, com centenas de lojas de marca a preço de desconto.

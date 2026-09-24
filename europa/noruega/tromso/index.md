@@ -1,5 +1,6 @@
 ---
 titulo: Tromsø
+capa: ./capa.jpg
 pais: Noruega
 paisCodigo: NO
 coordenadas: [69.6492, 18.9553]

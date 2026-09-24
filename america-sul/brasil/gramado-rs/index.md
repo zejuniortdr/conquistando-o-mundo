@@ -36,6 +36,7 @@ pontos:
 curadoria:
   valeSe: Para quem quer uma cidade pequena, fria e caminhável, com boa comida e atrações prontas para família, sem precisar dirigir muito.
   podePular: SnowLand cobra por bloco de 2h e entrega uma experiência de neve artificial limitada — quem já viu neve de verdade sente a diferença; o dinheiro rende mais em uma chocolateria com degustação ou em um café colonial.
+capa: ./capa.jpg
 ---
 
 Gramado engana por ser pequena: dá para caminhar do centro até o Lago Negro e ainda sobra tempo para duas chocolaterias no mesmo dia. O que surpreende é o quanto a cidade vive de detalhes repetidos — enxaimel, luzinhas, chocolate — mas cada um deles é bem executado, o que explica por que a mesma rua aparece em toda foto de quem visita.

@@ -27,6 +27,7 @@ pontos:
 curadoria:
   valeSe: O interesse for arquitetura barroca aplicada a uma biblioteca em funcionamento há séculos, dentro de uma das universidades mais antigas da Europa
   podePular: O ingresso com horário marcado tem vagas limitadas por sessão; comprar com antecedência evita ficar sem vaga no dia
+capa: ./capa.jpg
 ---
 
 Coimbra se ergue numa colina sobre o rio Mondego, e o topo dessa colina é ocupado pela universidade mais antiga de Portugal, fundada em 1290. A subida até lá — a pé pelas ruas estreitas da Baixa ou de elevador urbano — já dá uma primeira vista da cidade antes mesmo de entrar no complexo universitário.

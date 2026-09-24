@@ -31,6 +31,7 @@ pontos:
 curadoria:
   valeSe: O interesse for cidade compacta à beira-rio, com literatura, mercado e vinho do Porto a poucos minutos de distância um do outro
   podePular: A fila da Livraria Lello nos horários de pico consome tempo desproporcional à visita em si; ir logo na abertura reduz a espera
+capa: ./capa.jpg
 ---
 
 Porto se organiza em torno do Douro: a Ribeira desce até a margem do rio numa sequência de casas coloridas empilhadas na encosta, e a Ponte Dom Luís I atravessa para Vila Nova de Gaia num dos cartões-postais mais reconhecíveis da cidade. A caminhada pela margem, com vista para as caves de vinho do outro lado, é o ponto de partida mais natural para conhecer o centro histórico.

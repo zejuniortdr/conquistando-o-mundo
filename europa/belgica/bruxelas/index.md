@@ -35,6 +35,7 @@ pontos:
 curadoria:
   valeSe: O interesse for uma capital europeia compacta que combina patrimônio histórico com sede de instituições internacionais
   podePular: A subida ao Atomium tem fila e custo considerável para o tempo de visita; quem prioriza orçamento pode apreciar a estrutura só por fora
+capa: ./capa.jpg
 ---
 
 O centro histórico de Bruxelas cabe a pé: da Grand Place ao Manneken Pis são poucos minutos de caminhada, e boa parte do consumo de chocolate e waffle de rua acontece nesse mesmo raio. A Grand Place à noite, com a iluminação nas fachadas das casas de guilda, é um dos pontos que mais rende do roteiro sem custar nada.

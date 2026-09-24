@@ -31,6 +31,7 @@ pontos:
 curadoria:
   valeSe: O interesse for arquitetura contemporânea num contraste direto com o resto dos Países Baixos, que preservou o traçado histórico
   podePular: Quem já viu mercados cobertos parecidos em outras cidades pode reduzir o tempo no Markthal e focar nas Cube Houses e na caminhada pela orla
+capa: ./capa.jpg
 ---
 
 Rotterdam fica a 40 minutos de trem direto de Amsterdam, o que torna o bate-volta simples sem exigir troca de bilhete ou baldeação. O contraste com Amsterdam aparece assim que se sai da estação: onde a capital preservou o traçado de canais e casas estreitas dos séculos XVII e XVIII, Rotterdam foi quase inteiramente reconstruída depois de ser bombardeada na Segunda Guerra, e hoje tem o perfil de arquitetura contemporânea mais marcante do país.

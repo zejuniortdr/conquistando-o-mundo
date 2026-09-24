@@ -29,6 +29,7 @@ pontos:
 curadoria:
   valeSe: O interesse for conhecer o parque original da Disney, historicamente diferente da versão maior de Orlando
   podePular: Os dois parques em dois dias é ritmo apertado; quem prioriza conforto sobre cobrir tudo pode escolher só um dos dois
+capa: ./capa.jpg
 ---
 
 Anaheim fica a cerca de 45km de Los Angeles e concentra o Disneyland Resort, complexo com os dois parques da Disney na Califórnia. O Disneyland Park, inaugurado em 1955, é o parque original da marca — o único construído sob supervisão direta de Walt Disney — e tem escala mais compacta que o equivalente de Orlando, com o Castelo da Bela Adormecida como marco central em vez do da Cinderela.

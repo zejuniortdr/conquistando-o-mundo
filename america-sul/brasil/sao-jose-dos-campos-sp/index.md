@@ -27,6 +27,7 @@ pontos:
 curadoria:
   valeSe: A passagem pela cidade for de shopping e gastronomia, sem tempo reservado a ponto turístico
   podePular: Não é destino de roteiro turístico dedicado — quem busca atração da cidade em si precisa investigar além do que essa visita cobriu
+capa: ./capa.jpg
 ---
 
 São José dos Campos entrou no roteiro como passagem curta, sem ponto turístico dedicado — o programa se resumiu a um shopping e ao Cão Véio, restaurante ligado ao Fogaça, com corte de carne na brasa. Não há aqui um roteiro de cidade, só o registro da parada.

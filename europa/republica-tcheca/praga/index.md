@@ -33,6 +33,7 @@ pontos:
 curadoria:
   valeSe: O interesse for centro histórico medieval quase intacto, sem a reconstrução pós-guerra que marca boa parte da Europa central
   podePular: O circuito completo de interiores do Castelo de Praga é longo; quem tem só um dia na cidade pode restringir a visita à Catedral de São Vito e aos pátios externos
+capa: ./capa.jpg
 ---
 
 O centro histórico de Praga escapou da destruição da Segunda Guerra de um jeito raro na região, o que deixou o traçado medieval e a arquitetura barroca praticamente intactos entre o Castelo, a Ponte Carlos e a Cidade Velha. A caminhada entre esses três pontos é o eixo natural da visita, com o rio Vltava cortando o meio do trajeto.

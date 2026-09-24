@@ -174,6 +174,7 @@ pontos:
 curadoria:
   valeSe: O plano é juntar Tóquio pop (games, Dragon Ball, Nintendo, figures) com skincare, templos e comida típica numa mesma viagem, e ainda ter dois dias no Fuji.
   podePular: Monjayaki, okonomiyaki e casas de tempurá — a chapa ou o óleo compartilhado com camarão tornam o risco alto demais para quem tem alergia séria a crustáceos.
+capa: ./capa.jpg
 ---
 
 Tóquio é grande o bastante para a viagem não repetir bairro em duas semanas, e isso pede agrupar os dias por região. Shinjuku, Shibuya e Harajuku ficam de um lado da linha Yamanote (a linha de trem circular que liga os principais bairros); Tokyo Station, Ginza e Nihonbashi ficam do outro; Asakusa, Ueno e Akihabara ficam ao norte. Cada dia deste roteiro gira em torno de um desses grupos para gastar pouco tempo em trem.

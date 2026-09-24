@@ -29,6 +29,7 @@ pontos:
 curadoria:
   valeSe: O interesse for uma capital sul-americana com forte identidade cultural própria — tango, arquitetura europeia e vida de café — mesmo com custo elevado para a região
   podePular: Comparar preços entre casas de tango antes de reservar; o mesmo espetáculo varia bastante de valor conforme a casa e o pacote com jantar
+capa: ./capa.jpg
 ---
 
 Buenos Aires rendeu oito dias de roteiro, tempo suficiente para conhecer a cidade em ritmo mais lento do que uma passagem rápida permitiria. O custo de vida pesou mais do que o esperado para uma capital sul-americana — hospedagem, gastronomia e passeios turísticos ficaram na faixa de preço de uma cidade europeia, não de uma vizinha de fronteira.

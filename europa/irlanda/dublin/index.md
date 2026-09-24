@@ -41,6 +41,7 @@ pontos:
 curadoria:
   valeSe: O interesse estiver em história urbana em escala caminhável, cultura de pub e as duas grandes marcas de bebida do país lado a lado
   podePular: Quem já visitou destilarias ou cervejarias equivalentes em outras cidades pode escolher apenas uma entre Guinness Storehouse e Old Jameson Distillery, já que os roteiros de visita se sobrepõem bastante
+capa: ./capa.jpg
 ---
 
 Dublin cabe inteira a pé: o núcleo histórico entre o rio Liffey, Temple Bar e as duas catedrais medievais tem menos de 2km de ponta a ponta, e a maior parte dos pontos citados aqui fica a 10-15 minutos de caminhada um do outro.

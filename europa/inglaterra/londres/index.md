@@ -41,6 +41,7 @@ pontos:
 curadoria:
   valeSe: O plano é ver os marcos históricos e bairros de Londres sem gastar com atrações pagas, aproveitando parques, praças e mercados de entrada livre.
   podePular: Fechar a agenda em torno de shoppings genéricos como o Westfield London, que se repete em qualquer capital europeia e rouba tempo dos pontos que só existem ali.
+capa: ./capa.jpg
 ---
 
 Londres não pede pressa, mas também não perdoa quem chega sem plano — a cidade é grande, o metrô é eficiente e cada bairro tem uma identidade própria que se perde se o roteiro for só correr entre atrações. Cinco dias dão para cobrir o centro histórico e ainda esticar até um bairro alternativo, desde que o deslocamento entre zonas seja calculado com antecedência.

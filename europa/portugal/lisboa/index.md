@@ -40,6 +40,7 @@ pontos:
 curadoria:
   valeSe: O interesse for combinar história, museus e trajeto a pé pelas colinas sem pressa
   podePular: A visita ao Estádio da Luz para quem não acompanha futebol — o museu é específico para torcedores
+capa: ./capa.jpg
 ---
 
 Lisboa se organiza em colinas, e o que parece perto no mapa vira ladeira de quinze minutos na prática. A Baixa fica plana, entre o Rossio e a Praça do Comércio, mas qualquer saída dali para os miradouros ou para a Alfama exige subida — e o retorno costuma pesar mais nas pernas do que na distância marcada.

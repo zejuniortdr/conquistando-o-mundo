@@ -35,6 +35,7 @@ pontos:
 curadoria:
   valeSe: A viagem cair perto da virada do ano e o interesse for uma celebração de rua sem ingresso, somada a museus de peso mundial
   podePular: Quem já viu grandes acervos de arte europeus pode escolher só um entre os museus do Museumplein em vez dos dois, já que a caminhada entre eles é a mesma
+capa: ./capa.jpg
 ---
 
 Amsterdam concentra a maior parte dos pontos turísticos numa área caminhável entre a estação central, os canais do centro histórico e o Museumplein, onde ficam os grandes museus da cidade. O trem do Aeroporto de Schiphol chega direto à estação central em 15-20 minutos, o que dispensa qualquer transporte especial logo na chegada.

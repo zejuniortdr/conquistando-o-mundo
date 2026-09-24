@@ -29,6 +29,7 @@ pontos:
 curadoria:
   valeSe: A passagem pela cidade for curta e o interesse for concentrar cultura (MASP) e gastronomia de rua (Mercadão) num só eixo caminhável de metrô
   podePular: A fila do sanduíche de mortadela nos bares mais famosos do Mercadão pode ser longa em horário de almoço; bares menos conhecidos do mesmo andar servem porção parecida com menos espera
+capa: ./capa.jpg
 ---
 
 São Paulo entra no roteiro como destino de visitas recorrentes, não de uma única viagem — o texto aqui documenta o eixo mais repetido dessas idas, entre a Avenida Paulista e o Mercado Municipal. O Aeroporto de Congonhas, dentro da malha urbana, encurta bastante o trajeto até o centro expandido em comparação a Guarulhos.

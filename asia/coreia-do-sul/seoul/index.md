@@ -67,6 +67,7 @@ pontos:
 curadoria:
   valeSe: O plano é emendar Tóquio com uma semana de skincare, palácios e comida coreana, e ainda ver a virada do ano no centro histórico de Seul.
   podePular: A barraca de rua de Myeongdong com lagosta gratinada e espetinho de camarão — é o que mais aparece em vídeo, mas a chapa compartilhada torna o risco alto demais para quem tem alergia a crustáceos.
+capa: ./capa.jpg
 ---
 
 Seul cabe numa semana se os dias forem divididos por lado do rio Han. Ao norte fica o centro histórico — palácios, Bukchon, Insadong, Myeongdong e Jongno, onde está o sino do Réveillon. Ao sul ficam Gangnam, COEX e Jamsil, com a Lotte World Tower e a sede da JYP. O metrô é limpo, barato e tem sinalização em inglês, e quase todo deslocamento fica abaixo de 40 minutos.
